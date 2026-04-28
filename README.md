@@ -38,5 +38,4 @@ streamlit run app.py
 ```
 
 ## 👤 Author
-
-Jayadeepthisuddapalli
+Deepthi suddapalli
